@@ -16,4 +16,5 @@ class Solution:
                         resault.append(sample[c])
                 n+=1
         return resault
+        #it might be wrong its just for test 
 
